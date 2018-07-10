@@ -4,22 +4,18 @@
     <meta charset="utf-8">
     <title>To-Do</title>
     <link rel="stylesheet" tyep="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
     <script type="text/javascript" src="assets/js/lib/jquery-3.3.1.min.js"></script>
   </head>
   <body>
     <div id="container">
-      <h1>To-Do List</h1>
-      <input type="text">
+      <h1>To-Do List<span id="toggle-form"><i class="fas fa-plus"></i></span></h1>
+      <input type="text" placeholder="Add New Todo">
       <ul>
-        <li>
-          <span>X</span> Go to basketball class
-        </li>
-        <li>
-          <span>X</span> Buy a girlfriend
-        </li>
-        <li>
-          <span>X</span> Apply for jobs
-        </li>
+        <li><span><i class="fas fa-trash"></i></span> Exercise for 45 minutes</li>
+        <li><span><i class="fas fa-trash"></i></span> Take out trash</li>
+        <li><span><i class="fas fa-trash"></i></span> Read 30 minutes before bed</li>
       </ul>
     </div>
     <script type="text/javascript" src="assets/js/todo.js"></script>
