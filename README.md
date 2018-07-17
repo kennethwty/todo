@@ -11,7 +11,7 @@
 3 & 4) When you are done with a task, simply click on it and it will get crossed off. You can also hit the trash can icon to completely remove the task instead of crossing it off.
 <br>
 <img width="70%" alt="screen shot 2018-07-10 at 6 47 30 pm" src="https://user-images.githubusercontent.com/3878811/42541845-1a4e8fc2-8472-11e8-9d4f-4c500def2706.png">
-<img width="1280" alt="screen shot 2018-07-10 at 6 49 19 pm" src="https://user-images.githubusercontent.com/3878811/42541844-1a3b4160-8472-11e8-96f8-fb1c04789fe3.png">
+<img width="70%" alt="screen shot 2018-07-10 at 6 49 19 pm" src="https://user-images.githubusercontent.com/3878811/42541844-1a3b4160-8472-11e8-96f8-fb1c04789fe3.png">
 <br>
 5) Done for the day!
 <br>
